@@ -1,5 +1,7 @@
 # MITO-Sheets
 
+# Mito combines your favorite data science tools in a neat Python package. Mito is a spreadsheet interface for Python. You can import Mito into your Jupyter Notebook and a spreadsheet will appear.
+
 # Installing Mito
 ## How to get a Mito sheet rendering on your own JupyterLab
 
