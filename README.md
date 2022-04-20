@@ -12,7 +12,11 @@ python -m pip install mitoinstaller
 python -m mitoinstaller install
 
 
-### To create a Mitosheet, open a new or existing JupyterLab notebook. The common command to start JupyterLab is python -m jupyter lab. If you don't know how to create a JupyterLab notebook
+### To create a Mitosheet, open a new or existing JupyterLab notebook. The common command to start JupyterLab is 
+
+# python -m jupyter lab. 
+
+If you don't know how to create a JupyterLab notebook
 
 ### Once you've created a notebook, copy and paste the code below into a Jupyter code cell.
 
