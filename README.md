@@ -39,5 +39,5 @@ import pandas as pd
 train_stations = pd.DataFrame({'Zip': [21001, 97321, 49224, 87102, 24910, 22301], 'City': ['Aberdeen', 'Albany', 'Albion', 'Albuquerque', 'Alderson', 'Alexandria'], 'State': ['MD', 'OR', 'MI', 'NM', 'WV', 'VA'], 'Ticket_Office': ['N', 'Y', 'N', 'Y', 'N', 'Y']})
 demographics = pd.DataFrame({'Zip': [21001, 97321, 49224, 87102, 24910, 22301], 'Median_Income': [53979.0, 112924.0, 37556.0, 28388.0, 30914.0, 54087.0], 'Mean_Income': [66169.0, 147076.0, 50371.0, 39529.0, 40028.0, 64068.0], 'Pop': [18974.0, 11162.0, 14900.0, 22204.0, 5383.0, 19504.0]})
 
-# render the Mitosheet with the data
+
 mitosheet.sheet(train_stations, demographics)
