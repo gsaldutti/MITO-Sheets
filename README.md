@@ -22,7 +22,7 @@ Mito is an open source tool (look around...), and will always be built by and fo
 
 To get started, follow the install instructions [here](https://docs.trymito.io/getting-started/installing-mito). 
 
-If you're interested in Mito Pro, see our [plans page](https://www.trymito.io/plans).
+If you're interested in Mito Pro, see the [plans page](https://www.trymito.io/plans).
 
 ## Documentation
 
@@ -32,9 +32,6 @@ You can find all Mito documentation available [here](https://docs.trymito.io).
 
 To get support, [join the Discord](https://discord.com/invite/XdJSZyejJU).
 
-## Docker Quick Start
-
-Coming soon!
 
 ## MyBinder
 
